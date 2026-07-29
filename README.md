@@ -48,12 +48,6 @@ cloud-computing-course/
 
 ---
 
-## 💡 Markdown Tips
-
-- Use `#` for headings
-- Use `-` or `*` for bullet lists
-- Use `**bold**` for important text
-- Use `[Link](https://example.com)` for hyperlinks
 
 ---
 
