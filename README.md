@@ -18,7 +18,7 @@ This repository serves as my organized workspace for all course requirements, in
 ## 👤 Student Information
 
 - **Name:** Gian Kenneth A. Vendiola
-- **Course/Section:** Bachelor of Science in Information Technology (BSIT) – 3rd Year
+- **Course/Section:** BSIT 4-J
 - **Instructor:** JENKIELYN TORRES
 - **School Year:** 2026–2027
 
